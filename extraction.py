@@ -7,7 +7,7 @@ import time
 from tqdm import tqdm
 
 corona_patterns = [
-    "corona",
+    "coronavirus",
     "covid",
     "virus"
 ]
@@ -40,7 +40,7 @@ def crawl_questions_continue():
     for idx in tqdm(range(0, 500)):
         random.shuffle(all_results)
         for result in all_results:
-            idx_cut = 10 + idx * 2
+            idx_cut = 14 + idx * 5
 
             # find the index of the next space
             try:
