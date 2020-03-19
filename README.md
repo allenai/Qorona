@@ -1,4 +1,4 @@
-# Qorona: more than 5k questions related to Coronavirus
+# Qorona: more than 5k questions related to Coronavirus 🦠
 
 These questions are collected using Google auto-complete API. 
 The questions are included in this [file](data/queries.txt).
