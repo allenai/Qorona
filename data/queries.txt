@@ -29,6 +29,10 @@ How does coronavirus spread
 How is someone tested for COVID-19
 How long can the coronavirus that causes COVID-19 survive on surfaces
 How long is it between when a person is exposed to the virus and when they start showing symptoms
+How many coronavirus deaths in the last week
+How many covid-19 deaths in the last week
+How many new coronavirus cases were reported yesterday
+How many new covid-19 cases were reported yesterday
 How many people have COVID-19
 How serious is the COVID-19 illness
 How severe is COVID-19 infection
@@ -68,14 +72,17 @@ What is SARS-CoV-2 What is COVID-19
 What is a coronavirus
 What is coronavirus
 What is social distancing and why is it important
+What kind of structure does Covid-19 have
 What should I do if I think I or my child may have a COVID-19 infection
 What should we do if we suspect a patient has COVID-19 Do we notify the local or state health department
 What treatments are available to treat coronavirus
 What types of medications and health supplies should I have on hand for an extended stay at home
+What viruses have similar reproduction number to covid-19
 When can I discontinue my self-isolation or self-quarantine
 Where can I find current, credible information about COVID-19
 Where can I find more information about known coronaviruses
 Where do coronaviruses come from
+Which other coronaviruses have the same
 Who is at highest risk for getting very sick from COVID-19
 Why is it so difficult to develop treatments for viral illnesses
 Will a pneumococcal vaccine help protect me against coronavirus
@@ -84,6 +91,10 @@ a healthy immune system destroys cancer cells with
 antibiotics make your immune system weaker
 any coronavirus cases in chennai
 at what temperature does corona virus not survive
+austria coronavirus
+austria coronavirus 2020
+austria coronavirus cases
+austria coronavirus map
 austrian airlines et coronavirus
 austrian coronavirus
 bbc coronavirus espanol
@@ -2536,6 +2547,7 @@ how can improve immune system
 how can improve my immune system
 how can noroviruses spread via laundromats
 how can the corona virus be killed
+how can the coronavirus spread
 how can the immune system fight viruses
 how can u make your immune system stronger
 how can u tell if u have a weak immune system
@@ -3535,6 +3547,7 @@ how many coronavirus cases are there in the united states
 how many coronavirus cases are there in the us
 how many coronavirus cases did china have
 how many coronavirus cases does arizona have
+how many coronavirus cases does new york have
 how many coronavirus cases found in india
 how many coronavirus cases in africa
 how many coronavirus cases in ak
@@ -3768,7 +3781,10 @@ how many coronavirus cases on us
 how many coronavirus cases on usa
 how many coronavirus cases uk
 how many coronavirus cases united states
+how many coronavirus cases us
 how many coronavirus cases usa
+how many coronavirus cases were in china
+how many coronavirus cases were there in china
 how many coronavirus cases worldwide
 how many coronavirus confirmed in usa
 how many coronavirus in usa
@@ -4867,13 +4883,6 @@ how to keep up a strong immune system
 how to keep your child's immune system healthy
 how to keep your dog's immune system strong
 how to keep your immune system good
-How many new coronavirus cases were reported yesterday
-How many new covid-19 cases were reported yesterday
-How many covid-19 deaths in the last week
-How many coronavirus deaths in the last week
-What kind of structure does Covid-19 have
-Which other coronaviruses have the same
-What viruses have similar reproduction number to covid-19
 how to keep your immune system healthy
 how to keep your immune system healthy and strong
 how to keep your immune system healthy as you age
@@ -6976,6 +6985,7 @@ where are the confirmed coronavirus cases in the usa
 where are the corona virus cases in india
 where are the corona virus confirmed cases in us
 where are the corona viruses
+where are the coronavirus cases
 where are the coronavirus cases in alabama
 where are the coronavirus cases in australia
 where are the coronavirus cases in canada
@@ -6992,7 +7002,10 @@ where are the coronavirus cases in the united states
 where are the coronavirus cases in the us
 where are the coronavirus cases in the usa
 where are the coronavirus cases in usa
+where are the coronavirus cases in wv
 where are the coronavirus cases uk
+where are the coronavirus in the us
+where are the coronavirus in usa
 where did coronavirus originate and how
 where did coronavirus originate animal
 where did coronavirus originate city

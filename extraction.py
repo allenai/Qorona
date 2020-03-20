@@ -42,11 +42,13 @@ def crawl_questions_continue():
         for result in all_results:
             idx_cut = 24 + idx * 5
 
+            result = result.strip()
+
             # find the index of the next space
             try:
                 idx_cut = result.index(" ", idx_cut)
             except:
-                idx_cut = len(result)
+                idx_cut = len(result) + 1
 
             # skip is it is of the form `d may`, `may dd`, etc.
             if number_may_space.search(result) is not None:
@@ -75,6 +77,8 @@ def crawl_questions_continue():
                 print(f"matching_patterns: {matching_patterns}")
 
             for i in np.arange(ord('a'), 1 + ord('z')):
+                if prefix[-1] != " ":
+                    prefix = prefix + " "
                 prefix1 = prefix + chr(i)
                 print(f" ** {prefix1}")
                 output = query_and_return(prefix1)
